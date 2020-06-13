@@ -1,0 +1,1 @@
+Max CP = ((Base_Attack + 15) * ((Base_Defense + 15)^0.5 * (Base_Stamina + 15)^0.5 * 0.7903001^2) / 10
